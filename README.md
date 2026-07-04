@@ -91,7 +91,7 @@ li{
         <h1>My To-Do List</h1>
 
         <div class="input-box">
-            <input type="text" id="taskInput\" placeholder="Enter a task">
+            <input type="text" id="taskInput" placeholder="Enter a task">
             <button onclick="addTask()">Add</button>
         </div>
 
@@ -130,5 +130,3 @@ function deleteTask(button) {
     </script>
 </body>
 </html>
-
-
